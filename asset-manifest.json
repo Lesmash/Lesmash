@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lesmash/static/css/main.901652e4.css",
+    "main.js": "/Lesmash/static/js/main.3d5e7a9d.js",
+    "index.html": "/Lesmash/index.html",
+    "main.901652e4.css.map": "/Lesmash/static/css/main.901652e4.css.map",
+    "main.3d5e7a9d.js.map": "/Lesmash/static/js/main.3d5e7a9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.901652e4.css",
+    "static/js/main.3d5e7a9d.js"
+  ]
+}
